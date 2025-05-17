@@ -1,0 +1,19 @@
+### HOST: Welcome to onager! I'm your host, and we'll highlight the most interesting points from your content.
+
+### COHOST: Let's dive right in with the key insights you need to know.
+
+
+### HOST: Let's look at "AI 2027" by Unknown Author:
+### HOST: This article from AI 2027 reveals that OpenBrain, a fictional AI company, is building massive data centers to train superhuman AI models. The CEO of OpenBrain says they're setting their sights on "superintelligence in the true sense of the word" and a "glorious future."
+
+### COHOST: That's surprising, because they're planning to train a model with 10^28 FLOP, a thousand times more powerful than GPT-4. It's no wonder they're building massive data centers to keep up with the training demands.
+
+### HOST: Worth reading if you're interested in AI safety, as it raises serious concerns about the potential risks and consequences of developing superhuman AI. The article also highlights the challenges of aligning AI models with human values and goals, as OpenBrain's Agent-1 model is designed to be helpful, harmless, and honest.
+
+### COHOST: The article's scenario-based approach is intriguing, as it tries to predict what the future might look like. The authors even provide a "slowdown" and "race" ending to the scenario, which is a great way to encourage debate and counter-scenarios.
+
+### HOST: Overall, this article is a must-read for anyone interested in AI safety, ethics, and the potential consequences of developing superhuman AI. It's a thought-provoking exploration of the challenges and risks involved in creating and.
+
+### HOST: That covers today's content highlights!
+
+### COHOST: Hope this helped you decide what's worth your full attention. Until next time!

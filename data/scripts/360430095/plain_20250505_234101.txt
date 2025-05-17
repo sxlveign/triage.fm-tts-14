@@ -1,0 +1,17 @@
+Host: Welcome to triage.fm, your personal podcast delivery service! I'm Donna, your host to dive into your notes and read-it-laters to zero your inbox.
+
+Co-host: This is Cameron and we got some interesting content to cover today. Let's cut through bullshit and decide what's worth your full attention and what you can skip.
+
+
+Host: Let's look at "The Future of Prediction Market: A Web3 Social Media Revolution | annotated by vitali" by Buzzing Club:
+Host: This article reveals a game-changing vision for prediction markets in the Web3 economy, and I'm excited to dive in with our co-host. What caught your attention about this piece?
+
+Co-host: I was surprised to learn that prediction markets are not just about betting, but also about people voicing their opinions with their wallets. For example, they provided real-time insights into vaccine approval timelines and pandemic-related policy changes during the COVID-19 pandemic, outperforming traditional forecasts.
+
+Host: That's fascinating! And what about the potential of Web3 social media, where users can create, share, and own their own content?
+
+Co-host: Exactly, the article suggests that integrating prediction markets into social media could create a decentrali...
+
+Host: That covers today's content highlights!
+
+Co-host: We hope this helped you decide what's worth your full attention. Stay tuned to triage.fm!

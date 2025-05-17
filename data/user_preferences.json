@@ -1,0 +1,46 @@
+{
+  "360430095": {
+    "language": "russian",
+    "podcast_summaries": [
+      {
+        "title": "Staring into the abyss as a core life skill | benkuhn.net",
+        "author": "Unknown Author",
+        "summary": "The content discusses the concept of \"abyss-staring,\" which involves facing uncomfortable truths about one's life, beliefs, or decisions. The author argues that this ability is key to making better decisions and improving one's life, using examples from successful individuals like Drew, the CEO of Wave. The author suggests that procrastination on abyss-staring can lead to sub-optimal life trajectories and wasted time. Strategies for becoming better at abyss-staring include watching others who excel at it, engaging in discussions with others, and scheduling regular time for reflection. The author also emphasizes the importance of timing in abyss-staring, urging readers to neither procrastinate nor stare into the abyss too often.",
+        "source_url": "https://www.benkuhn.net/abyss/",
+        "message_id": ""
+      },
+      {
+        "title": "Docs | Fact Check",
+        "author": "Unknown Author",
+        "summary": "FactCheck.fun is a decentralized platform that allows users to trade on the accuracy of factual claims by using two core engines: Dynamic Pari-Mutuel (DPM) and Central Limit Order Book (CLOB). DPM provides a shared pool where payouts are decided after the pool closes, while CLOB has an order book with instant trade settlement using the Volume-Weighted Average Price (VWAP) for FactCheck markets. The platform charges a flat 2.5% fee on buys, with 45% going to the referrer, 5% to the market creator, and 50% to the protocol treasury. Users can sign up to start trading with USDC, deposit funds, and place trades on the CLOB market. The platform also features support for market makers and maker-keeper liquidity bots to provide liquidity and prevent manipulation. The platform aims to surface collective intelligence and incentivize the dissemination of truth in a decentralized manner.",
+        "source_url": "https://www.factcheck.fun/docs",
+        "message_id": ""
+      },
+      {
+        "title": "Lecture 16 - How to Run a User Interview (Emmett Shear)",
+        "author": "YC Root Access",
+        "summary": "This lecture, delivered by Emmett Shear, founder of Twitch, discusses the art of conducting user interviews to gain insights and shape product development in startups. The focus is on understanding what valuable information can be gained from user interviews that data alone cannot provide, along with suggesting suitable questions and demonstrating how these interviews help in defining or refining product goals.",
+        "source_url": "https://www.youtube.com/watch?v=qAws7eXItMk",
+        "message_id": ""
+      }
+    ],
+    "timezone": "Europe/Moscow",
+    "schedule": {
+      "time": "20:47",
+      "days": [
+        0,
+        1,
+        2,
+        3,
+        4,
+        5,
+        6
+      ],
+      "timezone": "Europe/Moscow"
+    },
+    "verida_token": "dd0eddd0-32af-11f0-b36f-2978118dc3famH4UTKzayOdnxmfyiw8T_nXYqAXxOhUL0HSAZfGWEKS5pU5M"
+  },
+  "7071464001": {
+    "onboarded": true
+  }
+}

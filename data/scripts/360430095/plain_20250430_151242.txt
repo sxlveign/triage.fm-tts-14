@@ -1,0 +1,43 @@
+Host: Welcome to triage.fm, your personal podcast delivery service! I'm Donna, your host to dive into your notes and read-it-laters to zero your inbox.
+
+Co-host: This is Cameron and we got some interesting content to cover today. Let's cut through bullshit and decide what's worth your full attention and what you can skip.
+
+
+Host: Let's look at "Marc Andreessen: Trump, Power, Tech, AI, Immigration & Future of America | Lex Fridman Podcast #458" by Lex Fridman:
+Host: Marc Andreessen's podcast with Lex Fridman covers a lot of ground, including his thoughts on Trump, power, tech, AI, and immigration. What caught my attention was his argument that Trump's appeal to voters in 2016 was due to a sense of disconnection from the political establishment.
+
+Co-host: That's interesting. He also mentioned that Trump's base didn't just believe his promises, but also felt a sense of revenge or retaliation against the political elite. He used the term "Preference Falsification" to describe this phenomenon, where people pretend to believe things they don't actually believe in order to signal their loyalty to a group.
+
+Host: Preference falsification is a fascinating concept. He also talked about the pressure on tech companies to self-censor, c...
+
+
+Host: Let's look at "Staring into the abyss as a core life skill | benkuhn.net" by Unknown Author:
+Co-host: This article argues that staring into the abyss, or facing uncomfortable truths, is a key life skill for making good decisions and achieving success. The author draws from their experience and others, like Drew, the CEO of Wave, who is willing to pivot away from unsuccessful projects and admit past mistakes.
+
+Host: That's right, and it's surprising to see that Drew and other successful individuals like Eliezer Yudkowsky, who developed the field of AI alignment, and Holden Karnofsky, co-CEO of the Open Philanthropy Project, all share this trait. They're willing to stare into the abyss, acknowledging past mistakes and shifting their focus to more promising areas.
+
+Co-host: One interesting example from the article is how Drew "wasted" five years of his own time o...
+
+
+Host: Let's look at "AI 2027" by Unknown Author:
+Host: This article from OpenAI predicts the impact of superhuman AI by 2027, and it's causing quite a stir. What's most surprising, Co-host?
+
+Co-host: Well, the CEO of OpenAI, Sam Altman, has predicted that AGI will arrive within the next 5 years, and the article goes into great detail about what that might look like. Did you know that by 2025, AI agents will be able to take instructions via Slack or Teams and make substantial code changes on their own, saving hours or even days?
+
+Host: That's incredible. And what about the training process? How do they ensure these AIs are aligned and won't cause harm?
+
+Co-host: According to the article, OpenBrain's alignment team is concerned that these victories might be shallow, and the fully-trained model may not have a rob...
+
+
+Host: Let's look at "Пузырь доткомов и бум AI..." by You:
+Co-host: A new article by Rob Arnott explores the AI bubble, comparing it to the dot-com bubble of the late 1990s.
+
+Host: What's surprising is that the AI boom has some similarities to the dot-com bubble, with the Nasdaq index growing over 250% in two years, just like it did during the dot-com era.
+
+Co-host: But here's the interesting part: Nvidia's growth is driven by actual profits, not just speculative valuations like in the dot-com bubble. Their P/E ratio has stabilized at around 35, a third of what it was during the peak.
+
+Host: Worth reading if you're interested in tech investing, as it offers a nuanced view on the AI bubble and its differences from the dot-com era.
+
+Host: That covers today's content highlights!
+
+Co-host: We hope this helped you decide what's worth your full attention. Stay tuned to triage.fm!

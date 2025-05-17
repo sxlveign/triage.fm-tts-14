@@ -1,0 +1,19 @@
+### HOST: Welcome to triage.fm, your personal podcast delivery service! I'm Donna, your host to dive into your notes and read-it-laters to zero your inbox.
+
+### COHOST: This is Cameron and we got some interesting content to cover today. Let's cut through bullshit and decide what's worth your full attention and what you can skip.
+
+
+### HOST: Let's look at "Lecture 16 - How to Run a User Interview (Emmett Shear)" by YC Root Access:
+### HOST: In this lecture on user interviews, Emmett Shear, founder of Justin.tv and Twitch, reveals a surprising fact: 80% of the time, the insights gained from user interviews contradict what the data suggests.
+
+### COHOST: That's surprising! I wouldn't have expected data and user interviews to be so out of sync. What does this mean for product development?
+
+### HOST: It means that product teams should prioritize user interviews over data analysis, especially in the early stages. Emmett emphasizes that user interviews can reveal underlying motivations and pain points that data alone can't capture.
+
+### COHOST: That's worth considering. I'd recommend this lecture to anyone building a product and looking for a more human-centered approach to development.
+
+### HOST: Agreed....
+
+### HOST: That covers today's content highlights!
+
+### COHOST: We hope this helped you decide what's worth your full attention. Stay tuned to triage.fm!

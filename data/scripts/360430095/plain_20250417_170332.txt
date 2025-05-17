@@ -1,0 +1,15 @@
+Host: Welcome to onager, your personal podcast delivery service! I'm Donna, your host to dive into your notes and read-it-laters to zero your inbox.
+
+Co-host: This is Cameron and we got some interesting content to cover today. Let's cut through bullshit and decide what's worth your full attention and what you can skip.
+
+
+Host: Let's look at "The Future of Prediction Market: A Web3 Social Media Revolution | annotated by vitali" by Buzzing Club:
+Host: This article explores the future of prediction markets in the Web3 social media revolution. Did you know that prediction markets can aggregate diverse perspectives, allowing users to voice their opinions with their wallets?
+
+Co-host: Yes, it's fascinating! Take the 2024 U.S. Presidential Election, for instance. Prediction markets were more accurate than many opinion polls, with billions of dollars wagered on the outcome. But what's even more exciting is that prediction markets can extend beyond politics, providing real-time insights into vaccine approval timelines and pandemic-related policy changes.
+
+Host: That's exactly what's revolutionary about prediction markets. By integrating AI-generated rules, filtering out spam, and incentivizing market curators, platforms like Buzzing Club are reimagining prediction markets for the Web3 era. Worth reading if you're interested in the intersection of Web3 and social media, as it challenges traditional notions of control and ownership.
+
+Host: That covers today's content highlights!
+
+Co-host: We hope this helped you decide what's worth your full attention. Stay tuned to onager!

@@ -1,0 +1,17 @@
+python-telegram-bot==20.5
+requests==2.31.0
+beautifulsoup4==4.12.2
+python-dotenv==1.0.0
+PyPDF2==3.0.1
+python-docx==1.0.1
+youtube-transcript-api==0.6.1
+docx
+telegram
+gTTS==2.4.0
+pydub==0.25.1
+google-api-python-client==2.108.0
+yt-dlp==2023.11.16
+google-auth==2.23.4
+google-auth-oauthlib==1.1.0
+pytz==2023.3
+requests-toolbelt==1.0.0

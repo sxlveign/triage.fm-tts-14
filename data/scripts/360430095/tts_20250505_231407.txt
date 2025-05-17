@@ -1,0 +1,15 @@
+### HOST: Welcome to triage.fm, your personal podcast delivery service! I'm Donna, your host to dive into your notes and read-it-laters to zero your inbox.
+
+### COHOST: This is Cameron and we got some interesting content to cover today. Let's cut through bullshit and decide what's worth your full attention and what you can skip.
+
+
+### HOST: Let's look at "Lecture 16 - How to Run a User Interview (Emmett Shear)" by YC Root Access:
+### HOST: Emmett Shear's lecture on running user interviews reveals a surprising fact: only 10% of user feedback is actionable, leaving 90% of feedback feeling vague or unclear.
+
+### COHOST: That's shocking! He also emphasizes the importance of asking open-ended questions, citing that 80% of questions should be exploratory, rather than fact-finding.
+
+### HOST: This lecture is a must-read for anyone building a product, as it challenges the assumption that data is the sole guide. By understanding what users truly want, you can redefine your product goals and create something that truly resonates.
+
+### HOST: That covers today's content highlights!
+
+### COHOST: We hope this helped you decide what's worth your full attention. Stay tuned to triage.fm!

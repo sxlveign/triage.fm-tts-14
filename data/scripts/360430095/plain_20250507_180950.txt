@@ -1,0 +1,46 @@
+Host: Welcome to triage.fm, your personal podcast delivery service! I'm Donna, your host to dive into your notes and read-it-laters to zero your inbox.
+
+Co-host: This is Cameron and we got some interesting content to cover today. Let's cut through bullshit and decide what's worth your full attention and what you can skip.
+
+
+Host: Let's look at "🛎️Illusions of Intelligence.pdf" by Document Author:
+Host: Did you know OpenAI's newest models are hallucinating at shocking rates? The o4-mini produces false information nearly half the time—48% of responses!
+
+Co-host: Even worse, their internal data shows the problem is accelerating—the previous o3 model was at 33%, meaning hallucination rates jumped 50% between versions.
+
+Host: Must-read for AI developers—it reveals how Anthropic's CEO predicts AI will write 90% of all code within six months, while current models can't even trust their own outputs.
+
+
+Host: Let's look at "Staring into the abyss as a core life skill | benkuhn.net" by Unknown Author:
+Host: Did you know that the CEO of Wave, Drew, made 11 failed attempts at startups before finally hitting it big with mobile money in Africa?  
+
+Co-host: Yes! And what’s wild is that he and his co-founder didn’t just pivot—they fully admitted they were wrong, shut down each idea, and moved on. Most people get stuck in sunk-cost thinking, but they saw failure as a stepping stone.  
+
+Host: Even crazier—when they realized mobile money wasn’t working in one country, they left and tried again in Senegal, where it took off. That kind of ruthless honesty about failure is rare.  
+
+Co-host: Exactly. If you’re into decision-making, startups, or just overcoming personal blind spots, this is a must-read. It’s all about facing hard truths head-on.
+
+
+Host: Let's look at "Lecture 16 - How to Run a User Interview (Emmett Shear)" by YC Root Access:
+
+Host: Did you know that in user interviews, asking "why" just once isn't enough? Emmett Shear says you need to ask it five times to uncover the real problem.
+
+Co-host: Exactly! He found that most founders stop at surface-level answers, but the fifth "why" often reveals game-changing insights that reshape the entire product.
+
+Host: And here's the kicker: he says you should never ask what features users want—they'll just list things they've seen elsewhere. Instead, focus on their pain points.
+
+Co-host: Must-watch for any founder—these counterintuitive techniques helped build Twitch into a billion-dollar platform.
+
+
+Host: Let's look at "AI 2027" by Unknown Author:
+Co-host: Did you know AI CEOs predict AGI could arrive in just 5 years? OpenAI’s Sam Altman is already talking about "superintelligence in the true sense of the word."
+
+Host: Even wilder—this team ran 25 tabletop exercises and consulted 100+ experts to predict AI’s 2027 impact. They forecast AI agents will autonomously code and research, but with hilarious failures like bungled tasks flooding Twitter.
+
+Co-host: And get this: their fictional "OpenBrain" is training models with 1,000x more compute than GPT-4, focusing on AI that accelerates AI research itself.  
+
+Host: Must-read if you want concrete scenarios on AI’s near future—complete with two endings: a "slowdown" or a full-blown "race." It’s like a war game for superintelligence.
+
+Host: That covers today's content highlights!
+
+Co-host: We hope this helped you decide what's worth your full attention. Stay tuned to triage.fm!

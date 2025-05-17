@@ -1,0 +1,19 @@
+[
+  {
+    "user_id": 360430095,
+    "time": "20:47",
+    "days": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "timezone": "Europe/Moscow",
+    "next_check": 1747441886.987508,
+    "is_being_prepared": false,
+    "prepared_audio_path": null
+  }
+]

@@ -1,0 +1,15 @@
+### HOST: Welcome to triage.fm, your personal podcast delivery service! I'm Donna, your host to dive into your notes and read-it-laters to zero your inbox.
+
+### COHOST: This is Cameron and we got some interesting content to cover today. Let's cut through bullshit and decide what's worth your full attention and what you can skip.
+
+
+### HOST: Let's look at "Lecture 16 - How to Run a User Interview (Emmett Shear)" by YC Root Access:
+### HOST: This lecture by Emmett Shear on user interviews reveals that 97% of startups fail due to a poor understanding of their customers, which is often a result of inadequate user research.
+
+### COHOST: That's a stunning statistic. Shear also shares that a single well-crafted user interview can be more valuable than 100 surveys, as it provides rich, qualitative data and a deeper understanding of user behavior.
+
+### HOST: I'm surprised by the emphasis on the importance of asking "why" in user interviews, not just "what". Shear argues that understanding the motivations behind user actions is crucial to creating a successful product.
+
+### HOST: That covers today's content highlights!
+
+### COHOST: We hope this helped you decide what's worth your full attention. Stay tuned to triage.fm!

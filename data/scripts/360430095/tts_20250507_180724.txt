@@ -1,0 +1,43 @@
+### HOST: Welcome to triage.fm, your personal podcast delivery service! I'm Donna, your host to dive into your notes and read-it-laters to zero your inbox.
+
+### COHOST: This is Cameron and we got some interesting content to cover today. Let's cut through bullshit and decide what's worth your full attention and what you can skip.
+
+
+### HOST: Let's look at "🛎️Illusions of Intelligence.pdf" by Document Author:
+### HOST: This newsletter reveals some startling facts about OpenAI's latest models, o3 and o4-mini. Did you know that these models have hallucination rates of 33% and 48% respectively, indicating a significant increase in inaccuracies compared to earlier iterations?
+
+### COHOST: Yes, and what's even more concerning is that OpenAI themselves don't understand the causes behind this trend, emphasizing the need for further research. This raises serious questions about the reliability of these models, especially in critical sectors.
+
+### HOST: That's right. And it's not just OpenAI; independent evaluations have corroborated these findings, with reports of the models generating false claims and failing to perform expected tasks. It's a wake-up call for the AI community to re-evaluate ...
+
+
+### HOST: Let's look at "Staring into the abyss as a core life skill | benkuhn.net" by Unknown Author:
+### COHOST: Have you noticed a pattern among people who are exceptional at making tough decisions and thinking critically about uncomfortable topics?
+
+### HOST: Ah, yes! Ben Kuhn's article highlights the importance of "staring into the abyss," or being willing to confront and acknowledge uncomfortable truths. He argues that this skill is essential for making good decisions and achieving success.
+
+### COHOST: That's fascinating! He shares specific examples of people who are great at abyss-staring, like Drew, the CEO of Wave, who was willing to pivot his company multiple times to find the right direction. And then there's Eliezer Yudkowsky, who had to confront his own folly in the AI alignment field.
+
+### HOST: Yeah, and Holden Karnofsky, the co-CEO of the Open Philanthropy Pro...
+
+
+### HOST: Let's look at "Lecture 16 - How to Run a User Interview (Emmett Shear)" by YC Root Access:
+### HOST: In this lecture, Emmett Shear shares a surprising finding: user interviews can reveal 80% of what you need to know about your users, while data analysis only shows 20%.
+
+### COHOST: That's fascinating! And what's even more interesting is that Emmett emphasizes the importance of asking open-ended questions, like "What's the most frustrating thing about your current workflow?" instead of yes/no questions.
+
+### HOST: Exactly! By asking the right questions, you can gain a deeper understanding of your users' needs and behaviors, which can help you redefine your product goals. Worth listening to if you're building a product and want to avoid assumptions about your users.
+
+
+### HOST: Let's look at "AI 2027" by Unknown Author:
+### HOST: This article discusses the potential future of superhuman AI and how it could transform the world. It's informed by trend extrapolations, wargames, expert feedback, and previous forecasting successes.
+
+### COHOST: Yes, and it's written by the CEOs of OpenAI, Google DeepMind, and Anthropic, who predict that AGI will arrive within the next 5 years. The article predicts that AI will be able to speed up AI research, making it a thousand times more powerful than GPT-4.
+
+### HOST: That's surprising. I didn't know that AI could potentially be used to accelerate its own development. The article also mentions that OpenBrain is building the biggest datacenters the world has ever seen to train a model with 10^28 FLOP, a thousand times more powerful than GPT-4.
+
+### COHOST: And...
+
+### HOST: That covers today's content highlights!
+
+### COHOST: We hope this helped you decide what's worth your full attention. Stay tuned to triage.fm!

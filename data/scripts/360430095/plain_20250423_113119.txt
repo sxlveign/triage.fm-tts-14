@@ -1,0 +1,17 @@
+Host: Welcome to triage.fm, your personal podcast delivery service! I'm Donna, your host to dive into your notes and read-it-laters to zero your inbox.
+
+Co-host: This is Cameron and we got some interesting content to cover today. Let's cut through bullshit and decide what's worth your full attention and what you can skip.
+
+
+Host: Let's look at "🛎️Illusions of Intelligence.pdf" by Document Author:
+Host: This article from AI Secret highlights a concerning trend in AI models, with OpenAI's o3 and o4-mini exhibiting hallucination rates of 33% and 48%, respectively.
+
+Co-host: That's staggering. It's not just the numbers, but the lack of understanding behind these inaccuracies that's alarming. The CEO of Anthropic even predicted that AI will generate 90% of all code within six months, which raises questions about the reliability of these models.
+
+Host: Exactly. And it's not just theoretical – we saw a real-world example with the AI-powered code editor Cursor, where a chatbot provided incorrect information, leading to widespread frustration and user backlash. The incident showcases the potential consequences of AI hallucinations and the importance of proper oversight in deploying AI in customer-facing roles.
+
+Host: Worth reading if you're interested in AI safety and the implications of these models on our daily lives. The article also highlights the rise of AI programming assistants and the investment bubble surrounding them, which is an interesting trend to follow.
+
+Host: That covers today's content highlights!
+
+Co-host: We hope this helped you decide what's worth your full attention. Stay tuned to triage.fm!

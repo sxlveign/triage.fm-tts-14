@@ -1,0 +1,39 @@
+### HOST: Welcome to triage.fm, your personal podcast delivery service! I'm Donna, your host to dive into your notes and read-it-laters to zero your inbox.
+
+### COHOST: This is Cameron and we got some interesting content to cover today. Let's cut through bullshit and decide what's worth your full attention and what you can skip.
+
+
+### HOST: Let's look at "Staring into the abyss as a core life skill | benkuhn.net" by Unknown Author:
+### HOST: The article defines "staring into the abyss" as confronting uncomfortable truths head-on, like Drew from Wave pivoting 11 times before finding success with Sendwave—which later grew so fast that most potential users adopted it within a year.
+
+### COHOST: Exactly! And Drew's team wasted 40+ employee-years on failed pivots, but that willingness to face hard decisions led to Wave's $1.7B valuation—3x Sendwave's sale price. Even Eliezer Yudkowsky admitted avoiding AI alignment truths for 6 years before updating his views.
+
+### HOST: Must-read for decision-makers. The case studies prove that embracing discomfort unlocks better outcomes, whether in startups or personal growth.
+
+
+### HOST: Let's look at "Lecture 16 - How to Run a User Interview (Emmett Shear)" by YC Root Access:
+> ### COHOST: Emmett emphasizes that user interviews should focus on past behaviors, not hypotheticals. He found asking "What did you do last time?" yields 3x more actionable data than "Would you use this?" 
+
+### HOST: He shares a key insight from Twitch's early days - 80% of users mentioned "community" in interviews, which directly shaped their product roadmap. This wasn't visible in analytics alone.
+
+### COHOST: Must-read for founders. His 5-step interview framework (including the "silent probe" technique) provides concrete tools for extracting game-changing insights from users.
+
+
+### HOST: Let's look at "AI 2027" by Unknown Author:
+### HOST: The article predicts AI's impact will surpass the Industrial Revolution, with OpenAI, Google DeepMind, and Anthropic CEOs forecasting AGI within 5 years.  
+
+### COHOST: They outline two scenarios: a "slowdown" and a "race" ending, based on 25 tabletop exercises and feedback from 100+ experts. Agent-1, a fictional AI, is trained with 10^28 FLOP—1,000x GPT-4's compute.  
+
+### HOST: Worth reading for concrete predictions on AI's near-future risks and governance challenges, backed by deep research.
+
+
+### HOST: Let's look at "🛎️Illusions of Intelligence.pdf" by Document Author:
+> ### COHOST: OpenAI's new o3 and o4-mini models have hallucination rates of 33% and 48% respectively, showing a concerning trend of decreased accuracy in newer AI models.
+
+### HOST: The Cursor AI incident demonstrates real-world consequences of AI hallucinations, with developers abandoning the platform after false claims about device restrictions caused widespread frustration.
+
+### COHOST: Worth reading for AI professionals, as it highlights critical reliability issues in cutting-edge models and real-world deployment risks, with concrete data from OpenAI's internal testing.
+
+### HOST: That covers today's content highlights!
+
+### COHOST: We hope this helped you decide what's worth your full attention. Stay tuned to triage.fm!

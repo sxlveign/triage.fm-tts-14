@@ -1,0 +1,53 @@
+Host: Welcome to triage.fm, your personal podcast delivery service! I'm Donna, your host to dive into your notes and read-it-laters to zero your inbox.
+
+Co-host: This is Cameron and we got some interesting content to cover today. Let's cut through bullshit and decide what's worth your full attention and what you can skip.
+
+
+Host: Let's look at "AI 2027" by Unknown Author:
+Host: This article 'AI 2027' predicts a future where AI surpasses human intelligence, with the authors attempting to forecast what it might look like. We have to consider the surprising fact that the CEOs of OpenAI, Google DeepMind, and Anthropic have all predicted AGI within the next 5 years.
+
+Co-host: That's right, and what's striking is the level of optimism, with Sam Altman calling it the 'glorious future'. The authors of 'AI 2027' emphasize the importance of being concrete and quantitative, even if it means depicting just one possible future.
+
+Host: The prediction involves multiple endings, including a 'slowdown' and a 'race' ending, which highlights the uncertainty surrounding AI's development and potential impact. What's also interesting is the authors' approach to predictive accuracy, encouraging readers to debate and counter their scenario.
+
+Co-host: Yes, and the team behind 'AI 2027' consists of experts with a track record of accurate predictions, including Daniel Kokotajlo, who previously predicted the rise of chain-of-thought, inference scaling, and AI chip export controls.
+
+Host: Worth reading for anyone interested in AI safety and the potential risks and benefits of superhuman AI, as the authors aim to spark a broad conversation about the future and how to steer it towards positive outcomes.
+
+
+Host: Let's look at "Staring into the abyss as a core life skill | benkuhn.net" by Unknown Author:
+Co-host: Have you ever noticed that the people who are really good at making tough decisions and taking risks are often the same ones who are unafraid to stare into the abyss?
+
+Host: Yes, that's fascinating. The article argues that "staring into the abyss" is a crucial skill for making good life decisions, and that many successful individuals have mastered this ability. It's not just about being fearless, but about being willing to acknowledge and confront uncomfortable truths.
+
+Host: One example given in the article is Drew, the CEO of Wave, who made a series of bold decisions to pivot his company and avoid getting stuck in a sub-optimal trajectory. He was willing to admit when he was wrong and adjust course, which ultimately led to his company's success.
+
+Co-host: That's a great example. The article also highlights the importance of being willing to update your views and change your plans when faced with new information or challenges. It's a skill that requires a high degree of self-awareness and a willingness to confront one's own biases and assumptions.
+
+Host: Absolutely. The article suggests that becoming more willing to stare into the abyss is one of the most important things you can do to become a better thinker and make better decisions. It's not an easy skill to develop, but it's essential for achieving success and living a fulfilling life.
+
+Host: Worth reading
+
+
+Host: Let's look at "Пузырь доткомов и бум AI..." by You:
+Host: This article by Research Affiliates' Rob Arnott is a must-read for anyone wondering if we're in the midst of an AI bubble similar to the dot-com bubble.
+
+Co-host: Yes, and the comparison between Cisco and Nvidia is striking. While both companies experienced explosive growth, the drivers behind it were different. Cisco's 500% growth during the dot-com bubble was largely due to speculative hype, whereas Nvidia's 800% growth is driven by actual profits and a more stable P/E ratio.
+
+Host: That's right. The current AI boom seems to be driven more by fundamental factors, whereas the dot-com bubble was fueled by pure speculation. And while valuations are certainly high, it's not yet at the same level of irrational exuberance we saw back then.
+
+Co-host: Worth reading if you're interested in AI or tech investing, as it provides a nuanced perspective on the current market trends and what to look out for.
+
+
+Host: Let's look at "Marc Andreessen: Trump, Power, Tech, AI, Immigration & Future of America | Lex Fridman Podcast #458" by Lex Fridman:
+Co-host: Did you know that Marc Andreessen thinks the best possible future for America is a '90s-style economic boom, where everyone gets wealthy and the country prospers?
+
+Host: That's not all - he also believes that Trump will still be a significant force in 2025, saying "he's got a million people who are just going to keep following him no matter what."
+
+Co-host: And get this, Andreessen thinks that the biggest threat to free speech is not government censorship, but rather "preference falsification" - when people self-censor to avoid online backlash.
+
+Host: Worth listening to if you're interested in politics, tech, and the future of America, as Andreessen shares unique insights on power dynamics and the role of technology in shaping our society.
+
+Host: That covers today's content highlights!
+
+Co-host: We hope this helped you decide what's worth your full attention. Stay tuned to triage.fm!

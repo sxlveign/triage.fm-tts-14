@@ -1,0 +1,17 @@
+### HOST: Welcome to triage.fm, your personal podcast delivery service! I'm Donna, your host to dive into your notes and read-it-laters to zero your inbox.
+
+### COHOST: This is Cameron and we got some interesting content to cover today. Let's cut through bullshit and decide what's worth your full attention and what you can skip.
+
+
+### HOST: Let's look at "Lecture 16 - How to Run a User Interview (Emmett Shear)" by YC Root Access:
+### HOST: Emmett Shear's lecture on how to run a user interview is a must-read for any startup founder. One surprising takeaway is that users can't tell you what they want, but they can tell you what they don't want.
+
+### COHOST: That's right, Emmett shares a specific example where a user explicitly stated they didn't want a feature, but through further discussion, the team discovered it was actually a crucial piece of the puzzle.
+
+### HOST: Another key point is the importance of asking open-ended questions. Emmett recommends using the "how" and "why" questions to dig deeper into users' thoughts and behaviors. He also stresses the need to listen actively and take notes.
+
+### COHOST: That's great advice. If you're interested in building a product that truly resonates with your...
+
+### HOST: That covers today's content highlights!
+
+### COHOST: We hope this helped you decide what's worth your full attention. Stay tuned to triage.fm!

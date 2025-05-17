@@ -1,0 +1,43 @@
+### HOST: Welcome to triage.fm, your personal podcast delivery service! I'm Donna, your host to dive into your notes and read-it-laters to zero your inbox.
+
+### COHOST: This is Cameron and we got some interesting content to cover today. Let's cut through bullshit and decide what's worth your full attention and what you can skip.
+
+
+### HOST: Let's look at "AI & Robotics Stealing Crypto's Thunder? | EP 73" by Good Game Podcast:
+### HOST: This episode is all about AI and robotics making waves in the crypto space. One surprising claim made is that Sesame AI is reportedly being acquired by a major tech giant, although the host doesn't specify which one.
+
+### COHOST: That's right, and what's more interesting is the mention of Google's potential AI advantage in the future, with the host saying "Will Google have the best AI?" It's unclear what this implies, but it could be a major player in the AI landscape.
+
+### HOST: Also worth noting is the discussion around AI replacing junior-level jobs, with the host sharing a quote from Nikita Bier that "Google/Harvard doesn't give you status". This highlights the shift in the job market and how AI is changing the way we think about education and work.
+
+
+### HOST: Let's look at "Marc Andreessen: Trump, Power, Tech, AI, Immigration & Future of America | Lex Fridman Podcast #458" by Lex Fridman:
+### COHOST: Did you know that Marc Andreessen believes that the best possible future is one where the US becomes a "more functional, more effective, and more just" country, but with a twist - it's not through liberal or conservative ideologies, but by embracing a form of "technocratic" governance?
+
+### HOST: That's fascinating! He also thinks that Trump's rise to power was partly due to the fact that the media and tech industries were too focused on the coasts and ignored the concerns of the Rust Belt and rural America.
+
+### COHOST: And here's another surprising take - Andreessen argues that the biggest threat to democracy isn't AI or Big Tech, but rather "preference falsification," where people pretend to hold certain beliefs to avoid social backlash, which leads to a breakdown of societal trust.
+
+### HOST: If you're interested in understanding the intersection of technology, politics, and society, this podcast is definitely worth a listen.
+
+
+### HOST: Let's look at "Combining Project-Level MCP Servers & Nested Cursor Rules to 10x Ai Dev Workflow" by JeredBlu:
+### HOST: This tutorial on combining Project-Level MCP Servers and Nested Cursor Rules promises a 10x boost to AI development workflows. What caught your attention, Co-host?
+
+### COHOST: I was surprised to learn that setting up project-specific MCP servers can reduce database queries by 75%, making your AI development process significantly faster. And did you know that by using nested rules, you can load only the necessary context-aware rules when needed, reducing cognitive overload?
+
+### HOST: That's impressive! It's not just about speed, though. The tutorial also shows how to generate a software plan from PRD, which could be a game-changer for teams managing complex projects. Worth a listen if you're working with AI development and looking for workflow optimization strategies.
+
+
+### HOST: Let's look at "1944: Варшавское восстание и зверства Третьего Рейха / Вторая мировая война @MINAEVLIVE" by МИНАЕВ LIVE:
+### COHOST: Did you know that during the 1944 Warsaw Uprising, the Nazis used a specific technique to identify and execute Polish civilians? They would force prisoners to dig their own graves and then shoot them.
+
+### HOST: That's brutal. What's even more surprising is that the Nazis would often announce the executions in advance, using loudspeakers to tell the community when and where the killings would take place. It was a form of psychological terror.
+
+### COHOST: And it gets worse. The Nazis would then use the bodies of the executed as an example to frighten others into submission. This, along with the use of random violence and mass executions, created a culture of fear that made the uprising nearly impossible to sustain.
+
+### HOST: Worth watching if you're interested in World War II's darker side and the human cost of war. The video provides a gripping account of the Warsaw Uprising and the atrocities committed by the Nazis, making it a compelling watch for history buffs.
+
+### HOST: That covers today's content highlights!
+
+### COHOST: We hope this helped you decide what's worth your full attention. Stay tuned to triage.fm!

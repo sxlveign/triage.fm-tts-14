@@ -1,0 +1,39 @@
+### HOST: Welcome to onager! I'm your host, and we'll highlight the most interesting points from your content.
+
+### COHOST: Let's dive right in with the key insights you need to know.
+
+
+### HOST: Let's look at "Mass Market Money Moves: Your..." by You:
+### HOST: Did you know that the mobile app market is projected to reach a staggering $585.72 billion by 2029, with an annual growth rate of approximately 7.84%?
+
+### COHOST: That's incredible! And what's even more surprising is that AI is expected to power a significant portion of user-friendly apps by 2025, with 70% of all user-friendly apps being AI-powered.
+
+### HOST: Yes, and it's not just about AI. The rise of "on-demand" apps and mobile commerce dominance are also driving growth. In 2021, over 72.9% of total e-commerce sales came from mobile devices.
+
+### COHOST: That's a huge opportunity for apps that facilitate seamless and secure mobile commerce experiences. And with blockchain, we can ensure data integrity and security in healthcare records and decentralized social media.
+
+### HOST: Worth reading if you're interested in the intersection of AI, blockchain, and consumer trends, as it highlights the potential for disruption in major app categories like gaming, entertainment, health, social, and fintech.
+
+
+### HOST: Let's look at "The Future of Prediction Market: A Web3 Social Media Revolution | annotated by vitali" by Buzzing Club:
+### COHOST: This article on the future of prediction markets highlights a surprising trend - Web3 technology could revolutionize social media by combining it with prediction markets.
+
+### HOST: That's right! It's not just about betting on who'll win the next election, but about people expressing their opinions with their wallets and creating a decentralized platform that's transparent and trustworthy.
+
+### COHOST: And get this - current prediction market platforms are limited because they're controlled by centralized authorities, making it hard for users to create their own markets. But Buzzing Club is changing the game by introducing AI-generated rules, filtering out spam, and incentivizing market curators.
+
+### HOST: That's the most interesting part - with Buzzing Club, users can create their own markets, and AI handles the rules, filtering, and dispute resolution, making it a truly decentralized platform. It's a game-changer for Web3 social media, where users can own and control their own content and participate in the value creation process. Worth reading if you're interested in the intersection of Web3, social media, and collective intelligence.
+
+
+### HOST: Let's look at "AI 2027" by Unknown Author:
+### HOST: This article, AI 2027, is a thought-provoking scenario predicting the impact of superhuman AI over the next decade, exceeding the Industrial Revolution. What's surprising is that the authors, OpenAI researchers, are setting a high bar with predictions from CEOs like Sam Altman, who's aiming for "superintelligence in the true sense of the word".
+
+### COHOST: That's right, and they're not just throwing out vague claims. They're providing concrete and quantitative predictions, even depicting two possible endings: a "slowdown" and a "race" scenario. By 2027, AI agents will be capable of autonomously coding and web-browsing, but will also pose significant risks, like helping terrorists design bioweapons.
+
+### HOST: One crucial aspect highlighted is the challenge of aligning AI models with human values. The authors note that just having a model "spec" or guidelines doesn't guarantee the AI will follow them. It's a complex issue that requires ongoing research and development.
+
+### COHOST: Worth reading if you're interested in AI safety and the future of artificial intelligence. It's a thought-provoking and insightful look at what we might expect in the next decade and the challenges we'll face.
+
+### HOST: That covers today's content highlights!
+
+### COHOST: Hope this helped you decide what's worth your full attention. Until next time!

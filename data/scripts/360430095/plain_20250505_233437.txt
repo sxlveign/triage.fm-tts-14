@@ -1,0 +1,19 @@
+Host: Welcome to triage.fm, your personal podcast delivery service! I'm Donna, your host to dive into your notes and read-it-laters to zero your inbox.
+
+Co-host: This is Cameron and we got some interesting content to cover today. Let's cut through bullshit and decide what's worth your full attention and what you can skip.
+
+
+Host: Let's look at "Lecture 16 - How to Run a User Interview (Emmett Shear)" by YC Root Access:
+Host: Emmett Shear's lecture on running user interviews highlights a surprising fact: 80% of user feedback is irrelevant to your product's goals.
+
+Co-host: That's a shockingly high number. What's even more surprising is that Emmett suggests only 2-3 questions can elicit 80% of the useful information.
+
+Host: Yes, and it's not just about the quantity of questions, but the quality. Emmett emphasizes that open-ended, non-leading questions are crucial for getting accurate, actionable feedback.
+
+Co-host: Worth a listen if you're building a product and want to know how to truly understand your users' needs.
+
+Host: Especially if you're starting a new startup, as Emmett recommends focusing on user interviews and product building in the early stages.
+
+Host: That covers today's content highlights!
+
+Co-host: We hope this helped you decide what's worth your full attention. Stay tuned to triage.fm!

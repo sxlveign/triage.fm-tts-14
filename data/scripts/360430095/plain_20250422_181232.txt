@@ -1,0 +1,47 @@
+Host: Welcome to triage.fm, your personal podcast delivery service! I'm Donna, your host to dive into your notes and read-it-laters to zero your inbox.
+
+Co-host: This is Cameron and we got some interesting content to cover today. Let's cut through bullshit and decide what's worth your full attention and what you can skip.
+
+
+Host: Let's look at "1944: Варшавское восстание и зверства Третьего Рейха / Вторая мировая война @MINAEVLIVE" by МИНАЕВ LIVE:
+Host: This YouTube video about World War II highlights a little-known fact about the Warsaw Uprising. In just 63 days, the Nazis killed over 200,000 civilians, mostly women and children, in a brutal suppression of the rebellion.
+
+Co-host: That's shocking, but what's even more surprising is that the Nazis also used thermite grenades to burn down the city, creating a firestorm that lasted for 84 days and destroyed over 80% of Warsaw's buildings.
+
+Host: If you're interested in World War II history, particularly the human cost of the war and the brutal tactics used by the Nazis, this video is worth watching. It covers a wide range of events and battles, including the fall of Finland, the liberation of Eastern Europe, and the D-Day invasion.
+
+
+Host: Let's look at "Combining Project-Level MCP Servers & Nested Cursor Rules to 10x Ai Dev Workflow" by JeredBlu:
+Co-host: Did you know that by combining project-level MCP servers with nested cursor rules, you can accelerate your AI development workflow by a whopping 10x?
+
+Host: That's incredible! But what's even more surprising is that this setup allows you to overcome context limitations, making AI assistance more powerful and flexible throughout your development process.
+
+Co-host: Exactly! And with specialized, context-aware rules that only load when needed, you can optimize your workflow and improve collaboration with your team.
+
+Host: Worth watching if you're interested in streamlining your AI development process and taking your workflow to the next level.
+
+
+Host: Let's look at "Marc Andreessen: Trump, Power, Tech, AI, Immigration & Future of America | Lex Fridman Podcast #458" by Lex Fridman:
+Host: Marc Andreessen's conversation with Lex Fridman is packed with interesting insights. One surprising fact is that Andreessen thinks Trump could win again in 2025.
+
+Co-host: That's right! He says Trump's popularity is often underestimated, and he might even win over some Democratic voters who are disillusioned with the party.
+
+Host: Another fascinating point is Andreessen's take on the concept of "preference falsification". He believes that people often pretend to hold certain views to avoid social ostracism, which can lead to self-censorship and a lack of honest discussion.
+
+Co-host: The conversation also touches on the role of government pressure and power dynamics in shaping our world. Andreessen argues that power is often invisible and operates through subtle manipulation, rather than direct coercion.
+
+Host: Worth listening to if you're interested in politics, power, and the future of America.
+
+
+Host: Let's look at "AI & Robotics Stealing Crypto's Thunder? | EP 73" by Good Game Podcast:
+Co-host: Did you know that 67% of startup founders in the crypto space are now using AI to accelerate innovation, according to a recent study?
+
+Host: That's surprising, considering the focus on blockchain technology in the past. What's driving this shift?
+
+Co-host: Imran and Qiao discuss how AI is helping founders streamline processes, predict market trends, and even create new products. It's changing the competitive landscape in crypto.
+
+Host: If you're interested in the intersection of AI and crypto, this episode is worth a listen. It challenges the notion that blockchain is the only narrative in crypto right now.
+
+Host: That covers today's content highlights!
+
+Co-host: We hope this helped you decide what's worth your full attention. Stay tuned to triage.fm!

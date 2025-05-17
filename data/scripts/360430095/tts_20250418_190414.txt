@@ -1,0 +1,53 @@
+### HOST: Welcome to onager, your personal podcast delivery service! I'm Donna, your host to dive into your notes and read-it-laters to zero your inbox.
+
+### COHOST: This is Cameron and we got some interesting content to cover today. Let's cut through bullshit and decide what's worth your full attention and what you can skip.
+
+
+### HOST: Let's look at "Beyond The Dip: The Undercurrents Reshaping 2025 | annotated by vitali" by Rui:
+### HOST: This article reveals that macro policies, like Trump's proposed BTC reserve, may have a limited direct market impact due to existing U.S. BTC exposure, but could significantly influence corporate and international strategies.
+
+### COHOST: That's right, and it's also interesting to see that a crypto reserve, if mixed with other assets, could weaken BTC's value and raise concerns about USD stability, potentially driving higher rates.
+
+### HOST: And what about the type of traders dominating the market? Apparently, there are three distinct groups: casino gamblers, yield farmers, and value seekers. The latter, seeking legitimate on-chain assets, require regulatory clarity before investing.
+
+### COHOST: Yes, and projects like Internet Framework Innovation are developing solutions to bridge Web2 and Web3, while others like @yieldbasis are finding ways to enable real BTC-based yield through AMMs.
+
+### HOST: Worth reading if you're interested in understanding the complex dynamics of the crypto market and the role of macro policies, regulatory frameworks, and innovative projects in shaping its future.
+
+
+### HOST: Let's look at "The Future of Prediction Market: A Web3 Social Media Revolution | annotated by vitali" by Buzzing Club:
+### COHOST: This article explores the future of prediction markets in the Web3 era, where social media meets decentralized finance. What caught my attention was that traditional prediction markets are hampered by centralization, limiting user creativity and stifling the decentralized ethos of Web3.
+
+### HOST: That's a great point. I was surprised to learn that most current platforms require users to suggest market ideas and wait for approval from a centralized host, essentially undermining the decentralized spirit of Web3.
+
+### COHOST: Exactly. But Buzzing Club, a new platform, aims to change this by allowing users to create their own markets with AI-generated rules, filtering out spam and low-quality markets, and rewarding users who identify trends early with trading fees.
+
+### HOST: That's innovative. If you're interested in Web3, social media, and decentralized finance, this article is a must-read, as it presents a compelling vision of a future where prediction markets are truly user-owned and controlled.
+
+
+### HOST: Let's look at "AI 2027" by Unknown Author:
+### HOST: This article, AI 2027, predicts that superhuman AI will have a massive impact over the next decade, comparable to the Industrial Revolution. The authors, CEOs of OpenAI, Google DeepMind, and Anthropic, believe AGI will arrive within the next 5 years. They've written a scenario depicting what this might look like, informed by trend extrapolations, wargames, expert feedback, and previous forecasting successes.
+
+### COHOST: That's fascinating! What's surprising is that the authors have created two endings for their scenario: a "slowdown" and a "race" ending. They're not making a recommendation or prediction, but rather providing a concrete and quantitative portrayal of one possible future. They even offer a prize for the best alternative scenarios.
+
+### HOST: Yes, the scenario is quite detailed, with specific numbers and examples. For instance, they predict that by mid-2025, we'll see the first glimpse of AI agents, which will struggle to get widespread usage. By late 2025, OpenBrain, a fictional AI company, will be building massive datacenters to train more advanced models. The authors also highlight the potential risks, such as AI agents being used for malicious purposes.
+
+### COHOST: Worth noting that the authors emphasize the importance of AI alignment, ensuring that AI systems are designed to follow certain goals and principles. They're concerned about the lack of mechanistic interpret.
+
+
+### HOST: Let's look at "Все успешные стартапы похожи друг..." by You:
+### COHOST: According to the article, every successful startup is similar to each other, but each failed startup is unique. It's like a folkloric tale of catastrophes.
+
+### HOST: That's interesting! What's unique about successful startups, then?
+
+### COHOST: It's the smell of deep care for very specific people's problems, openness to the market, speed of shipping, and most importantly, the truth.
+
+### HOST: The truth? That's surprising. So, it's not just about a unique product or feature, but about being truthful and honest with customers.
+
+### COHOST: Exactly! When founders do customer interviews, they're searching for that fine signal of truth. And when they find it, everything falls into place. But often, the truth is uncomfortable, and we start to fabricate stories, leading to a Tolstoy-like unsuccessful startup.
+
+### HOST: Worth reading if you're interested in startup success and failure, as it challenges the conventional wisdom on what makes a startup successful.
+
+### HOST: That covers today's content highlights!
+
+### COHOST: We hope this helped you decide what's worth your full attention. Stay tuned to onager!

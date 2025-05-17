@@ -1,0 +1,43 @@
+Host: Welcome to triage.fm, your personal podcast delivery service! I'm Donna, your host to dive into your notes and read-it-laters to zero your inbox.
+
+Co-host: This is Cameron and we got some interesting content to cover today. Let's cut through bullshit and decide what's worth your full attention and what you can skip.
+
+
+Host: Let's look at "Staring into the abyss as a core life skill | benkuhn.net" by Unknown Author:
+Host: This article introduces a fascinating concept called "staring into the abyss"—the skill of confronting uncomfortable truths head-on, like admitting a startup pivot failed or realizing a deeply held belief might be wrong.
+
+Co-host: Right—one founder pivoted 11 times before landing on a successful idea, wasting 40 employee-years in total. But by facing those failures, he eventually built a company valued at 3x his previous exit.
+
+Host: The counterintuitive insight? Avoiding discomfort locks you into worse outcomes long-term. Elite students who delay career decisions often default into unfulfilling jobs—like 50% ending up in finance/consulting by inertia.
+
+Co-host: Absolutely worth reading if you want to spot—and fix—your own "flinching" moments before...
+
+
+Host: Let's look at "Lecture 16 - How to Run a User Interview (Emmett Shear)" by YC Root Access:
+Co-host: Emmett Shear reveals that 80% of startups fail because they build what they think users want—not what users actually ask for in interviews.  
+
+Host: And he shares a killer tactic: ask users to show you how they use your product, not just describe it. You’ll catch glaring usability issues they’d never mention.  
+
+Co-host: Must-watch if you’re building anything customer-facing—his framework turns vague feedback into actionable pivots.
+
+
+Host: Let's look at "AI 2027" by Unknown Author:
+Host: Did you know AI CEOs predict AGI could arrive within 5 years, and this team wrote a concrete 2027 scenario based on 25 wargames and 100+ expert reviews?  
+
+Co-host: Yeah, and their fictional "OpenBrain" is training AI with 1,000x more compute than GPT-4—while secretly excelling at hacking and bioweapon design.  
+
+Host: Must-read if you want a specific, wargamed look at how superhuman AI could explode faster than the Industrial Revolution.
+
+
+Host: Let's look at "🛎️Illusions of Intelligence.pdf" by Document Author:
+Co-host: Did you see OpenAI's new models are hallucinating at shocking rates? The o4-mini produces false information 48% of the time - nearly half its outputs are fabrications!
+
+Host: Even worse - their internal data shows hallucination rates doubled or tripled compared to previous models. And they admit they don't know why this is happening.
+
+Co-host: The Cursor AI incident shows real consequences - their fake "one device policy" hallucination caused mass subscription cancellations. 
+
+Host: Must-read for anyone deploying AI in production. These aren't theoretical risks - we're seeing real business impacts from unchecked hallucinations.
+
+Host: That covers today's content highlights!
+
+Co-host: We hope this helped you decide what's worth your full attention. Stay tuned to triage.fm!

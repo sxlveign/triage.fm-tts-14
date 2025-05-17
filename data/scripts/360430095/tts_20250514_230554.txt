@@ -1,0 +1,31 @@
+### HOST: Welcome to triage.fm, your personal podcast delivery service! I'm Donna, your host to dive into your read-it-laters to zero your inbox.
+
+### COHOST: This is Cameron and we got some interesting content to cover today. Let's cut through the bullshit and decide what's worth your full attention and what you can skip.
+
+
+### HOST: Let's look at "Yannick Veys - Marketing & Growth" by Yannick Veys - Marketing & Growth:
+ ### HOST: At 25 years old, Michael Truell has built a $300M editor that outshines GitHub Copilot.
+
+### COHOST: By automating tedious coding tasks, developers can complete projects in minutes instead of days.
+
+### HOST: If you're a coder or tech enthusiast, this story offers an inspiring look at the future of software development.
+
+
+### HOST: Let's look at "Graeme" by Graeme:
+ ### COHOST: Graeme's tweet highlights Virtuals Genesis, a rapidly growing company in the virtual world space. It's worth noting that they've already attracted substantial capital and attention.
+
+### HOST: Interestingly, Graeme also mentions Alpha Hunting Agents and AIXBT, as well as VU_virtuals. These are the agents who've been building in the virtual world for several months before the recent hype surrounding Virtuals Genesis.
+
+### COHOST: If you're interested in staying ahead of the curve in the virtual world industry, it's definitely worth keeping an eye on these early adopters and their projects.
+
+
+### HOST: Let's look at "Launchpad Wars, Market Reversal, Trump Tariff Pause, and The State of AI | EP 75" by Good Game Podcast:
+### HOST: The episode highlights Stripe's AI shopping agents, which could automate 80% of customer service tasks by 2025, drastically reducing operational costs for e-commerce businesses.
+
+### COHOST: They also discuss how Meta and Robinhood are entering crypto payments, with Robinhood's wallet seeing 500% growth in active users since launching crypto trading features.
+
+### HOST: Worth watching for founders, as it combines concrete AI adoption metrics with emerging crypto trends that could reshape payments and startups.
+
+### HOST: That covers today's content highlights!
+
+### COHOST: We hope this helped you decide what's worth your full attention. Stay tuned to triage.fm!

@@ -1,0 +1,72 @@
+async def generate_command(update: Update, context: ContextTypes.DEFAULT_TYPE) -> None:
+    """Generate a podcast from the user's content queue."""
+    user_id = update.effective_user.id
+    # Check if there's content in the queue
+    content_queue = db.get_unprocessed_content(user_id)
+    if not content_queue:
+        await update.message.reply_text(EMPTY_QUEUE_MESSAGE)
+        return
+    # Send generating message
+    status_message = await update.message.reply_text(GENERATING_MESSAGE)
+    try:
+        # Generate script
+        formatted_script, plain_script, tts_script = script_generator.generate_script(user_id, content_queue)
+        # Save scripts to files
+        timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+        script_dir = f"data/scripts/{user_id}"
+        os.makedirs(script_dir, exist_ok=True)
+        # Save all versions of the script
+        with open(f"{script_dir}/formatted_{timestamp}.html", 'w') as f:
+            f.write(formatted_script)
+        with open(f"{script_dir}/plain_{timestamp}.txt", 'w') as f:
+            f.write(plain_script)
+        with open(f"{script_dir}/tts_{timestamp}.txt", 'w') as f:
+            f.write(tts_script)
+        try:
+            # Generate and send only the audio
+            audio_path = tts_processor.generate_audio(tts_script)
+            with open(audio_path, 'rb') as audio_file:
+                await update.message.reply_audio(
+                    audio=audio_file,
+                    caption="Your podcast is ready! Enjoy listening.",
+                    title=f"Onager Podcast - {datetime.now().strftime('%Y-%m-%d')}"
+                )
+            # Clean up the audio file after sending
+            try:
+                os.remove(audio_path)
+                logger.info(f"Deleted temporary audio file: {audio_path}")
+            except Exception as e:
+                logger.error(f"Error deleting audio file: {str(e)}")
+        except Exception as e:
+            logger.error(f"Error generating audio: {str(e)}")
+            await update.message.reply_text("Sorry, I encountered an error while generating your podcast audio.")
+        # Generate content summaries with ADHD-friendly formatting
+        summary_message = "🎙️ PODCAST SUMMARY\n━━━━━━━━━━━━━━━\n\n"
+        for i, item in enumerate(content_queue, 1):
+            title = item.get('title', 'Untitled')
+            author = item.get('author', 'Unknown Author')
+            content = item.get('content', '')
+            source_url = item.get('source_url', '')
+            message_id = item.get('message_id', '')
+            # Generate a one-sentence summary of the content:
+            summary = content[:150].split('. ')[0] + '.' if '.' in content[:150] else content[:150] + '...'
+            # Format the item link
+            link = source_url if source_url else f"t.me/c/{abs(user_id)}/{message_id}" if message_id else "No link available"
+            # Create visually structured item summary with emojis and clear sections
+            summary_message += f"📎 ITEM {i}\n"
+            summary_message += f"━━━━━━━━━━━━━━━\n"
+            summary_message += f"📗 Title: {title}\n"
+            summary_message += f"✍️ Author: {author}\n"
+            summary_message += f"💡 Key Point: {summary}\n"
+            summary_message += f"🔗 Link: {link}\n\n"
+        # Send summary message
+        await update.message.reply_text(summary_message)
+        # Mark content as processed
+        content_ids = [item['id'] for item in content_queue]
+        db.mark_content_as_processed(user_id, content_ids)
+        # Delete the status message
+        await status_message.delete()
+    except Exception as e:
+        logger.error(f"Error generating podcast: {str(e)}")
+        await update.message.reply_text(ERROR_MESSAGE)
+        await status_message.delete()

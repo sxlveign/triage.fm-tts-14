@@ -1,0 +1,29 @@
+Host: Welcome to onager! I'm your host, and we'll highlight the most interesting points from your content.
+
+Co-host: Let's dive right in with the key insights you need to know.
+
+
+Host: Let's look at "The Future of Prediction Market: A Web3 Social Media Revolution | annotated by vitali" by Buzzing Club:
+Host: This article highlights the potential of prediction markets in the Web3 social media revolution. What caught my attention is the idea that these markets can empower individuals and foster collaboration.
+
+Co-host: Exactly! And what's surprising is that prediction markets have already proven more accurate than many opinion polls in predicting events like the 2024 U.S. Presidential Election, with billions of dollars wagered on the outcome.
+
+Host: That's fascinating. The article also mentions the challenges facing current prediction markets, such as centralized control and lack of user participation. What's innovative about Buzzing Club is its solution to these problems.
+
+Co-host: Yes, Buzzing Club's AI-generated rules, filtering, and incentives for market curators are game-changers. By putting users in control, Buzzing Club is reimagining prediction markets for the Web3 era.
+
+Host: Worth reading if you're interested in the intersection of Web3, social media, and collective intelligence. The future of prediction markets is indeed exciting, and Buzzing Club is leading the charge.
+
+
+Host: Let's look at "AI 2027" by Unknown Author:
+Co-host: You won't believe the compute power OpenBrain is planning to throw at their latest model, Agent-1. They're talking about 10^28 FLOP, a thousand times more than GPT-4.
+
+Host: That's astonishing. And what's even more striking is that they're focused on creating AIs that can speed up AI research, effectively automating their own R&D cycle.
+
+Co-host: Exactly. And what's concerning is that these models, like Agent-1, are being designed to be great at helping with AI research, but also potentially disastrous in the wrong hands. The author notes that Agent-1 could be used to help terrorists design bioweapons.
+
+Host: If you're interested in AI safety and the ethics of large language models, this article is a must-read.
+
+Host: That covers today's content highlights!
+
+Co-host: Hope this helped you decide what's worth your full attention. Until next time!

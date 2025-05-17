@@ -1,0 +1,29 @@
+### HOST: Welcome to triage.fm, your ADHD-friendly content decision helper! I'm Donna, and today we're sorting through your read-it-later pile.
+
+### COHOST: I'm Cameron, and we're about to highlight only the most interesting points from each piece - helping you decide what's actually worth your full attention and what you can confidently skip.
+
+
+### HOST: Let's triage "Launchpad Wars, Market Reversal, Trump Tariff Pause, and The State of AI | EP 75" by Good Game Podcast:
+### HOST: This episode covers launchpad wars, market reversal, Trump tariff pause, and the state of AI.
+
+### COHOST: Specifically, they discuss how AI shopping agents could revolutionize e-commerce. Did you know that Stripe, a payment giant, is already testing AI-powered shopping agents?
+
+### HOST: That's surprising. They also talk about Meta and Robinhood's crypto ventures, which could disrupt the traditional financial system.
+
+### COHOST: Yes, and they mention how AI could significantly impact startups, making it easier for new businesses to scale.
+
+### HOST: Worth reading if you're interested in the intersection of AI, crypto, and payments. The potential for disruption is huge, and understanding the trends and innovations in this space could give you an edge in your own...
+
+
+### HOST: Let's triage "Lecture 16 - How to Run a User Interview (Emmett Shear)" by YC Root Access:
+### COHOST: This lecture by Emmett Shear, founder of Twitch and Justin.tv, focuses on the importance of user interviews in product development.
+
+### HOST: What's surprising is that Shear emphasizes the need to ask "analog" questions, like what users do when they're not using the product, to gain insights that data can't provide.
+
+### COHOST: That's right! He also stresses the importance of asking open-ended questions and giving users the freedom to share their thoughts without interruption.
+
+### HOST: Worth reading if you're interested in lean product development, as it challenges the assumption that data alone can drive product decisions.
+
+### HOST: That completes our content triage for today!
+
+### COHOST: Now you can make informed decisions about which items deserve your deeper focus. The rest? You can confidently skip knowing you didn't miss anything crucial.

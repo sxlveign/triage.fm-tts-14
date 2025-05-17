@@ -1,0 +1,17 @@
+Host: Welcome to triage.fm, your personal podcast delivery service! I'm Donna, your host to dive into your notes and read-it-laters to zero your inbox.
+
+Co-host: This is Cameron and we got some interesting content to cover today. Let's cut through bullshit and decide what's worth your full attention and what you can skip.
+
+
+Host: Let's look at "Пузырь доткомов и бум AI..." by You:
+Host: This article by Research Affiliates' Rob Arnott is a must-read for anyone wondering if we're in the midst of an AI bubble similar to the dot-com bubble of the late 1990s.
+
+Co-host: That's right! The graph comparing Cisco and Nvidia's stock prices is eye-opening. Cisco's 500% growth during the dot-com bubble was largely driven by speculation, with its P/E ratio reaching 150, while Nvidia's 800% growth is more closely tied to its actual profitability, with a stable P/E ratio of around 50.
+
+Host: That's a crucial difference. And what's even more surprising is that Nvidia's P/E ratio has actually decreased since the tariff-related fluctuations, now sitting at 35. This suggests that the current AI boom might be more fundamental-driven than the dot-com bubble, with valuations still above historical averages but not at the same level of frenzy.
+
+Co-host: Absolutely. So, if you're interested in AI or tech investing, this article provides a valuable perspective on the current market trends and the potential risks and opportunities. Worth reading if you want to separate hype from substance.
+
+Host: That covers today's content highlights!
+
+Co-host: We hope this helped you decide what's worth your full attention. Stay tuned to triage.fm!
